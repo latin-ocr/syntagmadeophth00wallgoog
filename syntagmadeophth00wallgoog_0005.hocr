@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./syntagmadeophth00wallgoog_0005.png"; bbox 0 0 892 1392; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 102 70 427 163">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 102 70 427 163">
+     <span class='ocr_line' id='line_1_1' title="bbox 102 70 427 163; baseline -0.015 0"><span class='ocrx_word' id='word_1_1' title='bbox 102 70 427 163; x_wconf 40' lang='lat' dir='ltr'><strong>*uhu-mm·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 200 161 366 189">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 200 161 366 189">
+     <span class='ocr_line' id='line_1_2' title="bbox 200 161 366 189; baseline -0.018 0"><span class='ocrx_word' id='word_1_2' title='bbox 200 161 366 189; x_wconf 72' lang='grc'><strong>0000002730</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 218 351 645 1306">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 218 351 645 1306">
+     <span class='ocr_line' id='line_1_3' title="bbox 218 351 645 1306; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 218 351 645 1306; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
